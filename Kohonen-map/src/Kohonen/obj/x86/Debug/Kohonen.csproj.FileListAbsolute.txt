@@ -1,0 +1,9 @@
+D:\Users\budanov.sn1602\Source\Repos\Kohonen-map\src\Kohonen\bin\Debug\Kohonen.exe
+D:\Users\budanov.sn1602\Source\Repos\Kohonen-map\src\Kohonen\bin\Debug\Kohonen.pdb
+D:\Users\budanov.sn1602\Source\Repos\Kohonen-map\src\Kohonen\obj\x86\Debug\Kohonen.csprojAssemblyReference.cache
+D:\Users\budanov.sn1602\Source\Repos\Kohonen-map\src\Kohonen\obj\x86\Debug\Kohonen.Form1.resources
+D:\Users\budanov.sn1602\Source\Repos\Kohonen-map\src\Kohonen\obj\x86\Debug\Kohonen.Properties.Resources.resources
+D:\Users\budanov.sn1602\Source\Repos\Kohonen-map\src\Kohonen\obj\x86\Debug\Kohonen.csproj.GenerateResource.cache
+D:\Users\budanov.sn1602\Source\Repos\Kohonen-map\src\Kohonen\obj\x86\Debug\Kohonen.csproj.CoreCompileInputs.cache
+D:\Users\budanov.sn1602\Source\Repos\Kohonen-map\src\Kohonen\obj\x86\Debug\Kohonen.exe
+D:\Users\budanov.sn1602\Source\Repos\Kohonen-map\src\Kohonen\obj\x86\Debug\Kohonen.pdb
